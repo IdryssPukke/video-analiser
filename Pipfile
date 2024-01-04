@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+virtualenv = "*"
+cmake = "*"
+face-recognition = "*"
+kafka-python = "*"
+opencv-python = "*"
+requests = "*"
+pyyaml = "*"
+tensorflow = "*"
+selenium = "*"
+pymongo = "*"
+flask = "*"
+pafy = "*"
+
+[requires]
+python_version = "3.8"
